@@ -1,6 +1,6 @@
 <h1>Hi! I'm Mike, an <a href="https://linkedin.com/in/mike-guardiola">IT Professional</a></h1>
 
-<h2> Information Technology Projects:</h2>
+<h2> 👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Creating a Subscription and Resource Group in Azure](https://github.com/mikeguardiola/create-azure-sub-and-resource)
@@ -13,7 +13,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
-<h2>Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
